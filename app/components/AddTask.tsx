@@ -17,7 +17,7 @@ await addTodo({
 })
 setNewTaskValue("");
 setModalOpen(false);
-router.refresh()
+router.refresh
     }
 return( 
 <div>
